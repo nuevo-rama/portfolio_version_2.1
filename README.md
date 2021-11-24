@@ -5,5 +5,5 @@
 
 1. En terminal:
 
-'git clone [nombre_del_repositorio]'
+´git clone [nombre_del_repositorio]´
 
